@@ -1,0 +1,11 @@
+#preview {
+  width: 400px;
+  height: 300px;
+  margin: 0px auto;
+}
+[type="radio"] {
+  margin-right: 4px;
+}
+[type="radio"]:not(:first-child) {
+  margin-left: 12px;
+}

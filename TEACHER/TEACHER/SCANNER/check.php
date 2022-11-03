@@ -24,7 +24,7 @@
         <div class="card card-body p-5 rounded border bg-white">
           <form action="" method="post" enctype="multipart/form-data">
             
-            <a href="scanner/" class="btn btn-primary" style="width:100%;">USE CAMERA</a>
+            <a href="dist/" class="btn btn-primary" style="width:100%;">USE CAMERA</a>
             <br>
             <br>
             <a href="index.php" class="btn btn-primary" style="width:100%;">UPLOAD FILE</a>
