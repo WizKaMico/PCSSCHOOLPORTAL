@@ -1,0 +1,27 @@
+
+.input-field{
+	border: 1px groove #000;
+	border-radius: 10px;
+	width: 25em;
+	padding: .5em 2em 2em 2em;
+	margin:1em 5em 5em 5em;
+	height:26em;
+}
+.qr-field{
+	border: 1px groove #000;
+	border-radius: 10px;
+	width: 24em;
+	height:26em;
+	padding: .5em 2em 2em 2em;
+	margin:-31em 5em 5em;
+	float:right;
+}
+.myoutput{
+	border-bottom:4px groove #000;
+	border-radius: 10px;
+	margin:7em 15em 0em 15em;
+}
+h3{
+	text-align:center;
+	
+}
